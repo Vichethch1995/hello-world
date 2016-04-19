@@ -1,2 +1,7 @@
 # hello-world
-It is a first project for me with GitHub
+
+Hi All:
+
+I is the first time that I use GitHub. 
+
+Thanks
